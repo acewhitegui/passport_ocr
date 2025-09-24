@@ -1,0 +1,5 @@
+PassportEye==2.2.2
+matplotlib==3.10.6
+easyocr==1.7.2
+pytesseract==0.3.13
+python-dateutil==2.9.0
