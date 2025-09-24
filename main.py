@@ -192,7 +192,7 @@ def get_passport_data(img_path_or_name):
 # -------------------------- 示例调用 --------------------------
 if __name__ == "__main__":
     # 测试用例（需确保images目录下有对应图片）
-    test_images = ["passport_temgoua.png", "passport_1.png","OKHAI.png"]
+    test_images = ["passport_temgoua.png", "passport_1.png","img-long.png"]
 
     for img_name in test_images:
         print(f"== == = 处理图片: {img_name} == == = ")
